@@ -3,7 +3,7 @@ Vehicle service endpoint.
 
 ## Tasks
 - Clone the project to your local workspace.
-- Modify OpenAPI specification, add new endpoint named '/summon', under 'Vehicle' tag, which consists of following attributes:-
+- Modify OpenAPI specification, add new endpoint named '/summon', under 'Summon' tag, which consists of following attributes:-
     - accept GET request type
     - operationId = 'getSummonByCriteria'
     - Add query parameters:-
